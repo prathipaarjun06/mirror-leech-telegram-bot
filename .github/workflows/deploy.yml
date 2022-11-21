@@ -3,7 +3,7 @@ name: Manually Deploy to Heroku
 on:
   workflow_dispatch:
     branches:
-      - "heroku"
+      - "prathipaarjun06-patch-1-eu"
 
 jobs:
   deploy:
